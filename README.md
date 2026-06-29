@@ -21,8 +21,17 @@ Over the past year, I have worked on projects involving dashboard development, a
 - 📚 Competitive Programming Analytics Platform (BeingZero)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aryanjha1807&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=aryanjha1807&theme=default&hide_border=false)
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=aryanjha1807&theme=default&hide_border=false&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=aryanjha1807&theme=default&hide_border=false"
+    height="180"
+  />
+</p>
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanjha1807) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-jha-50b12329b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ProgramWithAryan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanjhavsp0802@gmail.com) 
