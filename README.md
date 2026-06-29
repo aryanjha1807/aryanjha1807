@@ -25,11 +25,11 @@ Over the past year, I have worked on projects involving dashboard development, a
 <p align="left">
   <img
     src="https://github-readme-stats.shion.dev/api?username=aryanjha1807&theme=default&hide_border=false&include_all_commits=true&count_private=true"
-    width = "49%"
+    width = "45%"
   />
   <img
     src="https://streak-stats.demolab.com/?user=aryanjha1807&theme=default&hide_border=false"
-    width = "49%"
+    width = "53%"
   />
 </p>
 
