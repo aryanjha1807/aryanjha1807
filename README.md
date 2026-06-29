@@ -30,7 +30,7 @@ Over the past year, I have worked on projects involving dashboard development, a
   />
   <img
     src="https://streak-stats.demolab.com/?user=aryanjha1807&theme=default&hide_border=false"
-    height="180"
+    height="200"
     width = "49%"
   />
 </p>
